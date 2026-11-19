@@ -1,0 +1,16 @@
+# Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]serSettings/
+/Build/
+*.csproj
+*.sln
+*.slnx
+.vsconfig
+.vs/
+.idea/
+# test clip (regenerate with Tools/make_fake_camera.py)
+Tools/fake_camera.y4m
+__pycache__/
